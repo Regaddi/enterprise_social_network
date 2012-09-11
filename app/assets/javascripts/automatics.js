@@ -4,4 +4,5 @@ $(function() {
             $(this).remove();
         });
     }, 2500);
+    $('.dropdown-toggle').dropdown();
 });
